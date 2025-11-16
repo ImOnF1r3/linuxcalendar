@@ -1,5 +1,10 @@
-# Hackathon Template
+# LinuxCalendar
 
+By Michele Ferrari && Davide Zaccheria
 
-Simple svelte + python template 
-
+- personalizazione
+- notifiche
+- ai
+- customizzazione
+- collaborativo
+- note
